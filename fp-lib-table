@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "MSD-11-A") (type "KiCad") (uri "/Users/ibomb/Downloads/MSD-11-A") (options "") (descr ""))
+	(lib (name "SFV18R_1STE1HLF") (type "KiCad") (uri "/Users/ibomb/Downloads/SFV18R_1STE1HLF") (options "") (descr ""))
+)
