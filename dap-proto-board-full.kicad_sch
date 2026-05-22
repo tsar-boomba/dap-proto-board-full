@@ -9342,9 +9342,9 @@
 		)
 		(uuid "a83858c3-6d57-4800-89ed-0dcd14269576")
 	)
-	(text "I2C_1"
+	(text "PIO_I2C"
 		(exclude_from_sim no)
-		(at 345.694 133.604 0)
+		(at 347.218 133.604 0)
 		(effects
 			(font
 				(size 1.905 1.905)
