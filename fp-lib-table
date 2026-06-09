@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "MSD-11-A") (type "KiCad") (uri "/Users/ibomb/Downloads/MSD-11-A") (options "") (descr ""))
 	(lib (name "SFV18R_1STE1HLF") (type "KiCad") (uri "/Users/ibomb/Downloads/SFV18R_1STE1HLF") (options "") (descr ""))
+	(lib (name "footprints") (type "KiCad") (uri "/Users/ibomb/Downloads/ul_XTAD5212IRGER/KiCADv6/footprints.pretty") (options "") (descr ""))
 )
