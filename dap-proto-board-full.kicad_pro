@@ -704,11 +704,11 @@
       },
       {
         "filename": "npm1300.kicad_sch",
-        "name": "npm1300",
+        "name": "power",
         "uuid": "6939f238-2f26-4fa7-a3fc-3d89d4bf1e72"
       }
     ],
-    "used_designators": "J5,Y2,#PWR36,#PWR78-88,C19,C40,R4-13",
+    "used_designators": "D3,C19,C26,C40-42,#PWR34,#PWR37,#PWR44-46,#PWR49-58,#PWR78-82,#PWR89-96,Q1,U5,U8,R3,R10-11,R14-23",
     "variants": []
   },
   "sheets": [
@@ -718,7 +718,7 @@
     ],
     [
       "6939f238-2f26-4fa7-a3fc-3d89d4bf1e72",
-      "npm1300"
+      "power"
     ]
   ],
   "text_variables": {},
